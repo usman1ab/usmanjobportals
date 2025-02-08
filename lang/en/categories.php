@@ -1,0 +1,21 @@
+<?php
+return [
+    'home' => 'Home',
+    'categories' => 'Categories',
+    'create_new_category' => 'Create new category',
+    'category_name' => 'Category Name',
+    'created_date' => 'Created Date',
+    'status' => 'Status',
+    'action' => 'Action',
+    'sl' => 'SL',
+    'deactivate' => 'Deactivate',
+    'activate' => 'Activate',
+    'edit' => 'Edit',
+    'delete_category' => 'Delete Category',
+    'delete_confirmation' => 'Do you want to delete this category?',
+    'cancel' => 'Cancel',
+    'delete' => 'Delete',
+    'update_category' => 'Update category',
+    'create_category' => 'Create category',
+    'back_to_category' => 'Back to category',
+];

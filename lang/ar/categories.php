@@ -1,0 +1,21 @@
+<?php
+return [
+    'home' => 'الرئيسية',
+    'categories' => 'الفئات',
+    'create_new_category' => 'إنشاء فئة جديدة',
+    'category_name' => 'اسم الفئة',
+    'created_date' => 'تاريخ الإنشاء',
+    'status' => 'الحالة',
+    'action' => 'الإجراء',
+    'sl' => 'رقم',
+    'deactivate' => 'تعطيل',
+    'activate' => 'تفعيل',
+    'edit' => 'تعديل',
+    'delete_category' => 'حذف الفئة',
+    'delete_confirmation' => 'هل تريد حذف هذه الفئة؟',
+    'cancel' => 'إلغاء',
+    'delete' => 'حذف',
+    'update_category' => 'تحديث الفئة',
+    'create_category' => 'إنشاء الفئة',
+    'back_to_category' => 'الرجوع إلى الفئات',
+];
